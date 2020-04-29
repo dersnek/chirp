@@ -1,6 +1,8 @@
 # Chirp
 
-To start your Phoenix server:
+This is a tutorial by Chris McCord (https://youtu.be/MZvmYaFkNJI), I'm not yet sure if I'll continue it further.
+
+To start Phoenix server:
 
   * Setup the project with `mix setup`
   * Start Phoenix endpoint with `mix phx.server`
